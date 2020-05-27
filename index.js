@@ -3,4 +3,4 @@
 let multiply ,num1=8,num2=8;
 multiply=(num1*num2)-2;
 let random=Math.random();
-let mod 
+let mod =10%6;
